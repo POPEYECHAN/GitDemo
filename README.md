@@ -1,1 +1,1 @@
-﻿# GitDemo
+# GitDemo
